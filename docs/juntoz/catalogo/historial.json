@@ -1,5 +1,14 @@
 [
  {
+  "cuando": "2026-11-20T20:04:51.416Z",
+  "productos": 43050,
+  "nuevas": 1396,
+  "reusadas": 41654,
+  "retiradas": 3674,
+  "borradas": 95,
+  "paso": "Unir"
+ },
+ {
   "cuando": "2026-11-20T12:04:39.603Z",
   "productos": 43176,
   "nuevas": 373,
@@ -528,15 +537,6 @@
   "reusadas": 44154,
   "retiradas": 4807,
   "borradas": 901,
-  "paso": "Unir"
- },
- {
-  "cuando": "2026-10-20T21:10:28.130Z",
-  "productos": 45081,
-  "nuevas": 1774,
-  "reusadas": 43307,
-  "retiradas": 3880,
-  "borradas": 0,
   "paso": "Unir"
  }
 ]
